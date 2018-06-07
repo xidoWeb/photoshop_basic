@@ -8,13 +8,15 @@
 2. [setting](https://drive.google.com/open?id=1OjQ9GSucg57vQ6ieqBOKsShL6NS0Gyfu)
 
 ### step_02
-1. [기초 개념 + 스마트오브젝트]()
-2. [포토샵 전체 기능 익혀보기]()
-3. [레이어 이해하기]()
+1. [기초 개념 + 스마트오브젝트](https://drive.google.com/open?id=1dHLsh3LESXoETHB73q6fYUAfkk4ejnmV)
+2. [포토샵 전체 기능 익혀보기](https://drive.google.com/open?id=1H5bDHrOgvd7sw4o10y-qV1w8i4bRQ6Jh)
+3. [레이어 이해하기](https://drive.google.com/open?id=1gbE6Yl7mT5H8foihXSxSl-fUc9EJ1UKo)
+7. [테스트1-클리핑마스크](https://drive.google.com/open?id=1mO66zl2fORfHA9AfB9yHF14IT-0AuYVA)
+
 4. [마스크 이해하기(퀵,레이어,클리핑,벡터)]()
 5. [색상/채도/명도 개념이해하기]()
 6. [shape]()
-7. [테스트1]()
+7. [테스트2]()
 
 ### step_03 
 1. [도장툴, 힐링툴 사용하기]()

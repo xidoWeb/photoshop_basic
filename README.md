@@ -14,12 +14,14 @@
 7. [테스트1-클리핑마스크](https://drive.google.com/open?id=1mO66zl2fORfHA9AfB9yHF14IT-0AuYVA)
 
 4. [마스크 이해하기(퀵,레이어,클리핑,벡터)]()
-5. [색상/채도/명도 개념이해하기]()
+5. [색상/채도/명도 개념이해하기](https://drive.google.com/file/d/15V-ofFPad-qoLMzvtwK5zeDUWCvDIx58/view?usp=sharing)
+4. [라쏘툴 이해하기](https://drive.google.com/file/d/1Ngc_0LDO5dr4tFi_OG1InVQ6yout2EFd/view?usp=sharing)
 6. [shape]()
 7. [테스트2]()
 
 ### step_03 
-1. [도장툴, 힐링툴 사용하기]()
+1. [도장툴, 힐링툴 사용하기](https://drive.google.com/file/d/1sUsPkrc1obkmJKeXkBJtwObzXQ9b2EN9/view?usp=sharing)
+2. [도장툴,힐링툴 test](https://drive.google.com/file/d/1vsCU8jujW2wKN3J7TTkz7RoAopUsBphr/view?usp=sharing)
 2. [레이어 스타일 이해하기]()
 3. [필터 사용하기]()
 4. [블렌드모드 이해하기]()

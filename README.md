@@ -14,8 +14,9 @@
 7. [테스트1-클리핑마스크](https://drive.google.com/open?id=1mO66zl2fORfHA9AfB9yHF14IT-0AuYVA)
 
 4. [마스크 이해하기(퀵,레이어,클리핑,벡터)]()
-5. [색상/채도/명도 개념이해하기](https://drive.google.com/file/d/15V-ofFPad-qoLMzvtwK5zeDUWCvDIx58/view?usp=sharing)
 4. [라쏘툴 이해하기](https://drive.google.com/file/d/1Ngc_0LDO5dr4tFi_OG1InVQ6yout2EFd/view?usp=sharing)
+5. [색상/채도/명도 개념이해하기](https://drive.google.com/file/d/15V-ofFPad-qoLMzvtwK5zeDUWCvDIx58/view?usp=sharing)
+6. [색상 보정하기:상품색상컬러 맞추기](https://drive.google.com/file/d/1ik_2S90-W_sFQVoWbSQM6R_xMyGzoK9o/view?usp=sharing)
 6. [shape]()
 7. [테스트2]()
 
